@@ -1,0 +1,22 @@
+.custom-subnavbar {
+  background-color: #9370db; /* Violet clair */
+  border-radius: 4px;
+  padding: 5px;
+}
+
+.custom-subnavbar .nav-link {
+  color: white;
+  background-color: #6a5acd; /* Violet */
+  margin-right: 5px;
+  border-radius: 4px 4px 0 0;
+}
+
+.custom-subnavbar .nav-link:hover {
+  background-color: #7b68ee; /* Violet clair */
+}
+
+.custom-subnavbar .nav-link.active {
+  background-color: #483d8b; /* Violet foncé */
+  color: white;
+  font-weight: bold;
+}

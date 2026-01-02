@@ -1,0 +1,449 @@
+{
+  "aquarelle": {
+    "DIVERS": [
+      {
+        "nom": "Africain01",
+        "MINIATURES": "MINIATURES/Africain01.jpg",
+        "ORIGINAL": "ORIGINAL/Africain01.jpg"
+      },
+      {
+        "nom": "Ampoule",
+        "MINIATURES": "MINIATURES/Ampoule.jpg",
+        "ORIGINAL": "ORIGINAL/Ampoule.jpg"
+      },
+      {
+        "nom": "Automne2",
+        "MINIATURES": "MINIATURES/Automne2.jpg",
+        "ORIGINAL": "ORIGINAL/Automne2.jpg"
+      },
+      {
+        "nom": "Banc Plage",
+        "MINIATURES": "MINIATURES/Banc Plage.jpg",
+        "ORIGINAL": "ORIGINAL/Banc Plage.jpg"
+      },
+      {
+        "nom": "Barque",
+        "MINIATURES": "MINIATURES/Barque.jpg",
+        "ORIGINAL": "ORIGINAL/Barque.jpg"
+      },
+      {
+        "nom": "Boule",
+        "MINIATURES": "MINIATURES/Boule.jpg",
+        "ORIGINAL": "ORIGINAL/Boule.jpg"
+      },
+      {
+        "nom": "Buron",
+        "MINIATURES": "MINIATURES/Buron.jpg",
+        "ORIGINAL": "ORIGINAL/Buron.jpg"
+      },
+      {
+        "nom": "Cavaliers",
+        "MINIATURES": "MINIATURES/Cavaliers.jpg",
+        "ORIGINAL": "ORIGINAL/Cavaliers.jpg"
+      },
+      {
+        "nom": "Chemin du temple",
+        "MINIATURES": "MINIATURES/Chemin du temple.jpg",
+        "ORIGINAL": "ORIGINAL/Chemin du temple.jpg"
+      },
+      {
+        "nom": "Chemin_de_vie",
+        "MINIATURES": "MINIATURES/Chemin_de_vie.jpg",
+        "ORIGINAL": "ORIGINAL/Chemin_de_vie.jpg"
+      },
+      {
+        "nom": "Cheval",
+        "MINIATURES": "MINIATURES/Cheval.jpg",
+        "ORIGINAL": "ORIGINAL/Cheval.jpg"
+      },
+      {
+        "nom": "Coquelicots",
+        "MINIATURES": "MINIATURES/Coquelicots.jpg",
+        "ORIGINAL": "ORIGINAL/Coquelicots.jpg"
+      },
+      {
+        "nom": "CoucherDeSoleil01",
+        "MINIATURES": "MINIATURES/CoucherDeSoleil01.jpg",
+        "ORIGINAL": "ORIGINAL/CoucherDeSoleil01.jpg"
+      },
+      {
+        "nom": "CoucherDeSoleil02",
+        "MINIATURES": "MINIATURES/CoucherDeSoleil02.jpg",
+        "ORIGINAL": "ORIGINAL/CoucherDeSoleil02.jpg"
+      },
+      {
+        "nom": "CoucherDeSoleil03",
+        "MINIATURES": "MINIATURES/CoucherDeSoleil03.jpg",
+        "ORIGINAL": "ORIGINAL/CoucherDeSoleil03.jpg"
+      },
+      {
+        "nom": "DanseuseFlamenco",
+        "MINIATURES": "MINIATURES/DanseuseFlamenco.jpg",
+        "ORIGINAL": "ORIGINAL/DanseuseFlamenco.jpg"
+      },
+      {
+        "nom": "EL_Toro",
+        "MINIATURES": "MINIATURES/EL_Toro.jpg",
+        "ORIGINAL": "ORIGINAL/EL_Toro.jpg"
+      },
+      {
+        "nom": "Epi_de_ble",
+        "MINIATURES": "MINIATURES/Epi_de_ble.jpg",
+        "ORIGINAL": "ORIGINAL/Epi_de_ble.jpg"
+      },
+      {
+        "nom": "Faucheurs",
+        "MINIATURES": "MINIATURES/Faucheurs.jpg",
+        "ORIGINAL": "ORIGINAL/Faucheurs.jpg"
+      },
+      {
+        "nom": "Fourmi Christian",
+        "MINIATURES": "MINIATURES/Fourmi Christian.jpg",
+        "ORIGINAL": "ORIGINAL/Fourmi Christian.jpg"
+      },
+      {
+        "nom": "Hublot",
+        "MINIATURES": "MINIATURES/Hublot.jpg",
+        "ORIGINAL": "ORIGINAL/Hublot.jpg"
+      },
+      {
+        "nom": "Marche_africain",
+        "MINIATURES": "MINIATURES/Marche_africain.jpg",
+        "ORIGINAL": "ORIGINAL/Marche_africain.jpg"
+      },
+      {
+        "nom": "Meditation",
+        "MINIATURES": "MINIATURES/Meditation.jpg",
+        "ORIGINAL": "ORIGINAL/Meditation.jpg"
+      },
+      {
+        "nom": "Pecheur_a_pied",
+        "MINIATURES": "MINIATURES/Pecheur_a_pied.jpg",
+        "ORIGINAL": "ORIGINAL/Pecheur_a_pied.jpg"
+      },
+      {
+        "nom": "Portail",
+        "MINIATURES": "MINIATURES/Portail.jpg",
+        "ORIGINAL": "ORIGINAL/Portail.jpg"
+      },
+      {
+        "nom": "Quartet",
+        "MINIATURES": "MINIATURES/Quartet.jpg",
+        "ORIGINAL": "ORIGINAL/Quartet.jpg"
+      },
+      {
+        "nom": "Sapins_enneiges",
+        "MINIATURES": "MINIATURES/Sapins_enneiges.jpg",
+        "ORIGINAL": "ORIGINAL/Sapins_enneiges.jpg"
+      },
+      {
+        "nom": "Sieste_du_pecheur",
+        "MINIATURES": "MINIATURES/Sieste_du_pecheur.jpg",
+        "ORIGINAL": "ORIGINAL/Sieste_du_pecheur.jpg"
+      },
+      {
+        "nom": "Troupeau_de_moutons",
+        "MINIATURES": "MINIATURES/Troupeau_de_moutons.jpg",
+        "ORIGINAL": "ORIGINAL/Troupeau_de_moutons.jpg"
+      }
+    ],
+    "PAYSAGES": [
+      {
+        "nom": "Automne",
+        "MINIATURES": "MINIATURES/Automne.jpg",
+        "ORIGINAL": "ORIGINAL/Automne.jpg"
+      },
+      {
+        "nom": "Bouleau",
+        "MINIATURES": "MINIATURES/Bouleau.jpg",
+        "ORIGINAL": "ORIGINAL/Bouleau.jpg"
+      },
+      {
+        "nom": "Buron_Auvergne",
+        "MINIATURES": "MINIATURES/Buron_Auvergne.jpg",
+        "ORIGINAL": "ORIGINAL/Buron_Auvergne.jpg"
+      },
+      {
+        "nom": "Champ_de_lavande",
+        "MINIATURES": "MINIATURES/Champ_de_lavande.jpg",
+        "ORIGINAL": "ORIGINAL/Champ_de_lavande.jpg"
+      },
+      {
+        "nom": "Chemin Compostelle",
+        "MINIATURES": "MINIATURES/Chemin Compostelle.jpg",
+        "ORIGINAL": "ORIGINAL/Chemin Compostelle.jpg"
+      },
+      {
+        "nom": "Coquelicot",
+        "MINIATURES": "MINIATURES/Coquelicot.jpg",
+        "ORIGINAL": "ORIGINAL/Coquelicot.jpg"
+      },
+      {
+        "nom": "Lac_Brume",
+        "MINIATURES": "MINIATURES/Lac_Brume.jpg",
+        "ORIGINAL": "ORIGINAL/Lac_Brume.jpg"
+      },
+      {
+        "nom": "Lac_Pastel",
+        "MINIATURES": "MINIATURES/Lac_Pastel.jpg",
+        "ORIGINAL": "ORIGINAL/Lac_Pastel.jpg"
+      },
+      {
+        "nom": "La_maison_dans_ la_prairie",
+        "MINIATURES": "MINIATURES/La_maison_dans_ la_prairie.jpg",
+        "ORIGINAL": "ORIGINAL/La_maison_dans_ la_prairie.jpg"
+      },
+      {
+        "nom": "Maison_au_bord_de_la_riviere",
+        "MINIATURES": "MINIATURES/Maison_au_bord_de_la_riviere.jpg",
+        "ORIGINAL": "ORIGINAL/Maison_au_bord_de_la_riviere.jpg"
+      },
+      {
+        "nom": "Maison_vallee",
+        "MINIATURES": "MINIATURES/Maison_vallee.jpg",
+        "ORIGINAL": "ORIGINAL/Maison_vallee.jpg"
+      },
+      {
+        "nom": "MasProvencal",
+        "MINIATURES": "MINIATURES/MasProvencal.jpg",
+        "ORIGINAL": "ORIGINAL/MasProvencal.jpg"
+      },
+      {
+        "nom": "Mas_Provencal",
+        "MINIATURES": "MINIATURES/Mas_Provencal.jpg",
+        "ORIGINAL": "ORIGINAL/Mas_Provencal.jpg"
+      },
+      {
+        "nom": "Paturage auvergne",
+        "MINIATURES": "MINIATURES/Paturage auvergne.jpg",
+        "ORIGINAL": "ORIGINAL/Paturage auvergne.jpg"
+      },
+      {
+        "nom": "Paysage hiver",
+        "MINIATURES": "MINIATURES/Paysage hiver.jpg",
+        "ORIGINAL": "ORIGINAL/Paysage hiver.jpg"
+      },
+      {
+        "nom": "Paysage_desertique",
+        "MINIATURES": "MINIATURES/Paysage_desertique.jpg",
+        "ORIGINAL": "ORIGINAL/Paysage_desertique.jpg"
+      },
+      {
+        "nom": "Paysage_montagne",
+        "MINIATURES": "MINIATURES/Paysage_montagne.jpg",
+        "ORIGINAL": "ORIGINAL/Paysage_montagne.jpg"
+      },
+      {
+        "nom": "Paysage_sous_la_neige",
+        "MINIATURES": "MINIATURES/Paysage_sous_la_neige.jpg",
+        "ORIGINAL": "ORIGINAL/Paysage_sous_la_neige.jpg"
+      },
+      {
+        "nom": "Pont_Marmande",
+        "MINIATURES": "MINIATURES/Pont_Marmande.jpg",
+        "ORIGINAL": "ORIGINAL/Pont_Marmande.jpg"
+      },
+      {
+        "nom": "Provence",
+        "MINIATURES": "MINIATURES/Provence.jpg",
+        "ORIGINAL": "ORIGINAL/Provence.jpg"
+      },
+      {
+        "nom": "Reflection",
+        "MINIATURES": "MINIATURES/Reflection.jpg",
+        "ORIGINAL": "ORIGINAL/Reflection.jpg"
+      },
+      {
+        "nom": "Riviere",
+        "MINIATURES": "MINIATURES/Riviere.jpg",
+        "ORIGINAL": "ORIGINAL/Riviere.jpg"
+      },
+      {
+        "nom": "Riviere2",
+        "MINIATURES": "MINIATURES/Riviere2.jpg",
+        "ORIGINAL": "ORIGINAL/Riviere2.jpg"
+      },
+      {
+        "nom": "Scene d hiver",
+        "MINIATURES": "MINIATURES/Scene d hiver.jpg",
+        "ORIGINAL": "ORIGINAL/Scene d hiver.jpg"
+      },
+      {
+        "nom": "Scene d hiver2",
+        "MINIATURES": "MINIATURES/Scene d hiver2.jpg",
+        "ORIGINAL": "ORIGINAL/Scene d hiver2.jpg"
+      },
+      {
+        "nom": "Tournesols",
+        "MINIATURES": "MINIATURES/Tournesols.jpg",
+        "ORIGINAL": "ORIGINAL/Tournesols.jpg"
+      }
+    ],
+    "MARINE": [
+      {
+        "nom": "Bateau",
+        "MINIATURES": "MINIATURES/Bateau.jpg",
+        "ORIGINAL": "ORIGINAL/Bateau.jpg"
+      },
+      {
+        "nom": "Chalutier",
+        "MINIATURES": "MINIATURES/Chalutier.jpg",
+        "ORIGINAL": "ORIGINAL/Chalutier.jpg"
+      },
+      {
+        "nom": "Cote_de_Mer",
+        "MINIATURES": "MINIATURES/Cote_de_Mer.jpg",
+        "ORIGINAL": "ORIGINAL/Cote_de_Mer.jpg"
+      },
+      {
+        "nom": "Cote_rocheuse",
+        "MINIATURES": "MINIATURES/Cote_rocheuse.jpg",
+        "ORIGINAL": "ORIGINAL/Cote_rocheuse.jpg"
+      },
+      {
+        "nom": "Lac bleu",
+        "MINIATURES": "MINIATURES/Lac bleu.jpg",
+        "ORIGINAL": "ORIGINAL/Lac bleu.jpg"
+      },
+      {
+        "nom": "Lac",
+        "MINIATURES": "MINIATURES/Lac.jpg",
+        "ORIGINAL": "ORIGINAL/Lac.jpg"
+      },
+      {
+        "nom": "Lac02",
+        "MINIATURES": "MINIATURES/Lac02.jpg",
+        "ORIGINAL": "ORIGINAL/Lac02.jpg"
+      },
+      {
+        "nom": "La_Barque_Verte",
+        "MINIATURES": "MINIATURES/La_Barque_Verte.jpg",
+        "ORIGINAL": "ORIGINAL/La_Barque_Verte.jpg"
+      },
+      {
+        "nom": "La_dune",
+        "MINIATURES": "MINIATURES/La_dune.jpg",
+        "ORIGINAL": "ORIGINAL/La_dune.jpg"
+      },
+      {
+        "nom": "La_Mer",
+        "MINIATURES": "MINIATURES/La_Mer.jpg",
+        "ORIGINAL": "ORIGINAL/La_Mer.jpg"
+      },
+      {
+        "nom": "Marine01",
+        "MINIATURES": "MINIATURES/Marine01.jpg",
+        "ORIGINAL": "ORIGINAL/Marine01.jpg"
+      },
+      {
+        "nom": "Marine2018",
+        "MINIATURES": "MINIATURES/Marine2018.jpg",
+        "ORIGINAL": "ORIGINAL/Marine2018.jpg"
+      },
+      {
+        "nom": "Marine2_2018",
+        "MINIATURES": "MINIATURES/Marine2_2018.jpg",
+        "ORIGINAL": "ORIGINAL/Marine2_2018.jpg"
+      },
+      {
+        "nom": "Marine_3voiliers",
+        "MINIATURES": "MINIATURES/Marine_3voiliers.jpg",
+        "ORIGINAL": "ORIGINAL/Marine_3voiliers.jpg"
+      },
+      {
+        "nom": "Mer01",
+        "MINIATURES": "MINIATURES/Mer01.jpg",
+        "ORIGINAL": "ORIGINAL/Mer01.jpg"
+      },
+      {
+        "nom": "Phare",
+        "MINIATURES": "MINIATURES/Phare.jpg",
+        "ORIGINAL": "ORIGINAL/Phare.jpg"
+      },
+      {
+        "nom": "Phare_La_Flotte",
+        "MINIATURES": "MINIATURES/Phare_La_Flotte.jpg",
+        "ORIGINAL": "ORIGINAL/Phare_La_Flotte.jpg"
+      },
+      {
+        "nom": "Promenade plage",
+        "MINIATURES": "MINIATURES/Promenade plage.jpg",
+        "ORIGINAL": "ORIGINAL/Promenade plage.jpg"
+      },
+      {
+        "nom": "Voilier aquarium",
+        "MINIATURES": "MINIATURES/Voilier aquarium.jpg",
+        "ORIGINAL": "ORIGINAL/Voilier aquarium.jpg"
+      },
+      {
+        "nom": "Voiliers_1",
+        "MINIATURES": "MINIATURES/Voiliers_1.jpg",
+        "ORIGINAL": "ORIGINAL/Voiliers_1.jpg"
+      },
+      {
+        "nom": "Voiliers_2",
+        "MINIATURES": "MINIATURES/Voiliers_2.jpg",
+        "ORIGINAL": "ORIGINAL/Voiliers_2.jpg"
+      },
+      {
+        "nom": "zzz",
+        "MINIATURES": "MINIATURES/zzz.jpg",
+        "ORIGINAL": "ORIGINAL/zzz.jpg"
+      }
+    ],
+    "ASIATIQUE": [
+      {
+        "nom": "Barque_Vietnam ",
+        "MINIATURES": "MINIATURES/Barque_Vietnam .jpg",
+        "ORIGINAL": "ORIGINAL/Barque_Vietnam .jpg"
+      },
+      {
+        "nom": "Chine01",
+        "MINIATURES": "MINIATURES/Chine01.jpg",
+        "ORIGINAL": "ORIGINAL/Chine01.jpg"
+      },
+      {
+        "nom": "Chine02",
+        "MINIATURES": "MINIATURES/Chine02.jpg",
+        "ORIGINAL": "ORIGINAL/Chine02.jpg"
+      },
+      {
+        "nom": "Chinoiserie03",
+        "MINIATURES": "MINIATURES/Chinoiserie03.jpg",
+        "ORIGINAL": "ORIGINAL/Chinoiserie03.jpg"
+      },
+      {
+        "nom": "Pecheuse",
+        "MINIATURES": "MINIATURES/Pecheuse.jpg",
+        "ORIGINAL": "ORIGINAL/Pecheuse.jpg"
+      },
+      {
+        "nom": "Pecheuse01",
+        "MINIATURES": "MINIATURES/Pecheuse01.jpg",
+        "ORIGINAL": "ORIGINAL/Pecheuse01.jpg"
+      },
+      {
+        "nom": "Pecheuse_barque",
+        "MINIATURES": "MINIATURES/Pecheuse_barque.jpg",
+        "ORIGINAL": "ORIGINAL/Pecheuse_barque.jpg"
+      },
+      {
+        "nom": "Viet_a_vélo",
+        "MINIATURES": "MINIATURES/Viet_a_vélo.jpg",
+        "ORIGINAL": "ORIGINAL/Viet_a_vélo.jpg"
+      }
+    ]
+  },
+  "petanque": {
+    "CLUBS": [
+      {
+        "nom": "logo-robes",
+        "MINIATURES": "MINIATURES/logo-robes.jpg",
+        "ORIGINAL": "ORIGINAL/logo-robes.jpg"
+      }
+    ],
+    "REGLEMENT": [],
+    "RESULTATS": []
+  },
+  "auvergne": []
+}

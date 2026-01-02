@@ -1,0 +1,85 @@
+[1mdiff --git a/README.md b/README.md[m
+[1mindex c15ce07..952b145 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -2,23 +2,73 @@[m [mLes commandes GIT[m
+ [m
+ Git est un ensemble de commandes indépendantes dont les principales sont :[m
+ [m
+[31m-git init​ crée un nouveau dépôt ;[m
+[32m+[m[32m# crée un nouveau dépôt ;[m
+ [m
+[31m-git clone​ clone un dépôt distant ;[m
+[32m+[m[32mgit init​[m
+ [m
+[31m-git add​ ajoute le contenu du répertoire de travail dans la zone d’index pour le prochain commit ;[m
+[32m+[m[32m# clone un dépôt distant ;[m
+[32m+[m
+[32m+[m[32mgit clone​[m
+[32m+[m
+[32m+[m[32m# ajoute le contenu du répertoire de travail dans la zone d’index pour le prochain commit ;[m
+[32m+[m
+[32m+[m[32mgit add​[m
+ [m
+ git status​ montre les différents états des fichiers du répertoire de travail et de l’index ;[m
+ [m
+ git diff​ montre les différences ;[m
+ [m
+[31m-git commit​ enregistre dans la base de données (le dépôt) un nouvel instantané avec le contenu des fichiers qui ont été indexés puis fait pointer la branche courante dessus ;[m
+[32m+[m[32m# enregistre dans la base de données (le dépôt) un nouvel instantané avec le contenu des fichiers qui ont été indexés puis fait pointer la branche courante dessus ;[m
+[32m+[m
+[32m+[m[32mgit commit​[m
+[32m+[m
+[32m+[m[32m# Lister toutes les branches locales[m
+[32m+[m
+[32m+[m[32mgit branch[m
+[32m+[m
+[32m+[m[32m# Lister toutes les branches (locales + distantes)[m
+[32m+[m
+[32m+[m[32mgit branch -a[m
+[32m+[m
+[32m+[m[32m# Voir la branche courante[m
+[32m+[m
+[32m+[m[32mgit branch --show-current[m
+[32m+[m
+[32m+[m[32m# Voir les dernières commits sur chaque branche[m
+[32m+[m
+[32m+[m[32mgit branch -v[m
+[32m+[m
+[32m+[m[32m# Supprimer une branche locale[m
+[32m+[m
+[32m+[m[32mgit branch -d nom_de_la_branche[m
+[32m+[m
+[32m+[m[32m# permet de basculer de branche et d’en extraire le contenu dans le répertoire de travail ;[m
+[32m+[m
+[32m+[m[32mgit checkout[m
+[32m+[m
+[32m+[m[32m# Créer une nouvelle branche ET se déplacer dessus (méthode la plus utilisée)[m
+[32m+[m
+[32m+[m[32mgit checkout -b[m
+[32m+[m
+[32m+[m[32m# Créer seulement la branche (reste sur la branche actuelle)[m
+[32m+[m
+[32m+[m[32mgit branch nom_de_la_branche[m
+[32m+[m
+[32m+[m[32m# Supprimer une branche déjà fusionnée (safe)[m
+[32m+[m
+[32m+[m[32mgit branch -d nom_de_la_branche[m
+[32m+[m
+[32m+[m[32m# Forcer la suppression (même si non fusionnée)[m
+[32m+[m
+[32m+[m[32mgit branch -D nom_de_la_branche[m
+[32m+[m
+[32m+[m[32m# Se placer sur la branche de destination (ex: main, develop)[m
+ [m
+[31m-git branch​ liste les branches ou crée une nouvelle branche ;[m
+[32m+[m[32mgit checkout main[m
+ [m
+[31m-git checkout permet de basculer de branche et d’en extraire le contenu dans le répertoire de travail ;[m
+[32m+[m[32m# Fusionner la branche source dans la branche courante[m
+ [m
+[31m-git merge​ fusionne une branche dans une autre ;[m
+[32m+[m[32mgit merge nom_de_la_branche[m
+ [m
+ git log​ affiche la liste des commits effectués sur une branche ;[m
+ [m
